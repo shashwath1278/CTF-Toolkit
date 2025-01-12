@@ -25,6 +25,8 @@ Welcome to the **CTF Toolkit**! This repository is a curated collection of tools
 - [RSACTF-Tool](https://github.com/Ganapati/RsaCtfTool) - Exploit RSA vulnerabilities.
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - Cryptanalysis automation.
 - [Cryptohack](https://cryptohack.org/) - Interactive cryptography challenges.
+- [quipquip](https://quipqiup.com/) - Frequency analysis and automatic cipher solving.
+- [ROT13](https://rot13.com/) - Simple ROT13 encoding and decoding tool.
 
 ### **Techniques**
 - Frequency analysis for substitution ciphers.
