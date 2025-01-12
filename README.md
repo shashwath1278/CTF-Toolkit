@@ -11,7 +11,6 @@ Welcome to the **CTF Toolkit**! This repository is a curated collection of tools
 4. [Reverse Engineering](#reverse-engineering)
 5. [Forensics](#forensics)
 6. [General Purpose Tools](#general-purpose-tools)
-7. [Practice Resources](#practice-resources)
 
 ---
 
