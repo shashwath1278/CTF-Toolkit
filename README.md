@@ -26,6 +26,7 @@ Welcome to the **CTF Toolkit**! This repository is a curated collection of tools
 - [Cryptohack](https://cryptohack.org/) - Interactive cryptography challenges.
 - [quipquip](https://quipqiup.com/) - Frequency analysis and automatic cipher solving.
 - [ROT13](https://rot13.com/) - Simple ROT13 encoding and decoding tool.
+- [Katana](https://github.com/JohnHammond/katana) - Automatic CTF Challenge Solver in Python3
 
 ### **Techniques**
 - Frequency analysis for substitution ciphers.
