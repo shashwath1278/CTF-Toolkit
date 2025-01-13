@@ -118,6 +118,7 @@ Welcome to the **CTF Toolkit**! This repository is a curated collection of tools
 - [jq](https://stedolan.github.io/jq/) - Parse JSON data.
 - [file](https://man7.org/linux/man-pages/man1/file.1.html) - Identify file type/magic numbers.
 - [xxd](https://linux.die.net/man/1/xxd) - Hex dump tool.
+- [nikito](https://github.com/sullo/nikto?tab=readme-ov-file) - Vuln scan tool.
 
 
 ---
