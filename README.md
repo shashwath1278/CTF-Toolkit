@@ -63,6 +63,7 @@ Welcome to the **CTF Toolkit**! This repository is a curated collection of tools
 - [one_gadget](https://github.com/david942j/one_gadget) - ROP chain generator.
 - [ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - Find ROP gadgets.
 - [PwnTools](https://github.com/Gallopsled/pwntools) - Python library for writing exploits.
+- [searchsploit](https://www.exploit-db.com/searchsploit) - Offline tool for searching exploits from Exploit-DB.
 
 ### **Techniques**
 - Stack smashing to overwrite return addresses.
