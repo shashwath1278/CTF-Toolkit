@@ -1,5 +1,4 @@
-**Just a CTF cheat sheet with a few most useful commands for challenges**
-
+```markdown
 # 🔐 CTF Cheat Sheet
 
 ## **Cryptography**
@@ -20,6 +19,12 @@ python3 RsaCtfTool.py --publickey key.pub --attack all
 ### **Factorizing n (RSA)**
 ```bash
 curl "http://factordb.com/api?query=<n>"
+```
+### **Cipher Challenges**
+```bash
+caesar_cipher.py "KHOOR"  # Shift Cipher (Caesar)
+python3 vigenere.py decrypt "ciphertext" "key"
+python3 xor_decoder.py "ciphertext" "key"
 ```
 
 ## **🛠️ Source Code Analysis**
@@ -79,4 +84,5 @@ binwalk -e image.png
 ### **Analyze Image Layers**
 ```bash
 java -jar stegsolve.jar
+```
 ```
