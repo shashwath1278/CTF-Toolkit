@@ -1,4 +1,4 @@
-```markdown
+
 # 🔐 CTF Cheat Sheet
 
 ## **Cryptography**
